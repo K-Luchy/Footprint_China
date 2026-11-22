@@ -1,4 +1,4 @@
-# ChinaFootprint · 中国城市足迹地图
+# Footprint_China · 中国城市足迹地图
 
 一个基于 Python 开发的中国城市足迹记录工具。
 
